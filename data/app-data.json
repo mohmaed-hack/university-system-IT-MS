@@ -116,7 +116,16 @@
       "image": "/images/subjects/software-engineering.png",
       "semester": 1,
       "bookUrl": "https://drive.google.com/uc?export=download&id=1n88RA2lhpaGQa5Qz-1V3249RLXWJRAuq",
-      "lecturesTheory": [],
+      "lecturesTheory": [
+        {
+          "number": 1,
+          "title": "Introduction to Software Engineering ",
+          "date": "2026-06-20",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/7bzy3uevp858nbde3txkv/Lec1-ntroduction-to-software-engneering-emirates11.pdf?rlkey=wcex0rxp9y6f3tz3h4u7wb4gd&st=phbqdv09&dl=1",
+          "type": "theory",
+          "id": "l-1783821817935"
+        }
+      ],
       "lecturesPractical": []
     },
     {
@@ -178,19 +187,63 @@
       "day": "السبت",
       "dayEn": "Saturday",
       "lectures": [
-        { "id": "ttl-1", "time": "8:00 - 11:00", "nameEn": "Software Engineering", "nameAr": "هندسة البرمجيات", "type": "نظري", "instructor": "د. محمد الخولاني", "room": "Hall 7" },
-        { "id": "ttl-2", "time": "11:00 - 2:00", "nameEn": "Information Technology Management", "nameAr": "إدارة تقنية المعلومات", "type": "نظري", "instructor": "أ. زايد", "room": "Hall 7" }
+        {
+          "id": "ttl-1",
+          "time": "8:00 - 11:00",
+          "nameEn": "Software Engineering",
+          "nameAr": "هندسة البرمجيات",
+          "type": "نظري",
+          "instructor": "د. محمد الخولاني",
+          "room": "Hall 7"
+        },
+        {
+          "id": "ttl-2",
+          "time": "11:00 - 2:00",
+          "nameEn": "Information Technology Management",
+          "nameAr": "إدارة تقنية المعلومات",
+          "type": "نظري",
+          "instructor": "أ. زايد",
+          "room": "Hall 7"
+        }
       ]
     },
-    { "id": "tt-sun", "day": "الأحد", "dayEn": "Sunday", "isHoliday": true, "lectures": [] },
-    { "id": "tt-mon", "day": "الاثنين", "dayEn": "Monday", "isHoliday": true, "lectures": [] },
+    {
+      "id": "tt-sun",
+      "day": "الأحد",
+      "dayEn": "Sunday",
+      "isHoliday": true,
+      "lectures": []
+    },
+    {
+      "id": "tt-mon",
+      "day": "الاثنين",
+      "dayEn": "Monday",
+      "isHoliday": true,
+      "lectures": []
+    },
     {
       "id": "tt-tue",
       "day": "الثلاثاء",
       "dayEn": "Tuesday",
       "lectures": [
-        { "id": "ttl-3", "time": "8:00 - 11:00", "nameEn": "Developing Database Applications (MySQL)", "nameAr": "تطوير تطبيقات قواعد البيانات", "type": "عملي", "instructor": "أ. أسماء", "room": "Lab 3 GB" },
-        { "id": "ttl-4", "time": "11:00 - 2:00", "nameEn": "Developing Database Applications (MySQL)", "nameAr": "تطوير تطبيقات قواعد البيانات", "type": "عملي", "instructor": "أ. أسماء", "room": "Lab 3 GA" }
+        {
+          "id": "ttl-3",
+          "time": "8:00 - 11:00",
+          "nameEn": "Developing Database Applications (MySQL)",
+          "nameAr": "تطوير تطبيقات قواعد البيانات",
+          "type": "عملي",
+          "instructor": "أ. أسماء",
+          "room": "Lab 3 GB"
+        },
+        {
+          "id": "ttl-4",
+          "time": "11:00 - 2:00",
+          "nameEn": "Developing Database Applications (MySQL)",
+          "nameAr": "تطوير تطبيقات قواعد البيانات",
+          "type": "عملي",
+          "instructor": "أ. أسماء",
+          "room": "Lab 3 GA"
+        }
       ]
     },
     {
@@ -198,8 +251,24 @@
       "day": "الأربعاء",
       "dayEn": "Wednesday",
       "lectures": [
-        { "id": "ttl-5", "time": "11:00 - 2:00", "nameEn": "Business Intelligence", "nameAr": "ذكاء الأعمال", "type": "نظري", "instructor": "د. قيس النزيلي", "room": "Hall 7" },
-        { "id": "ttl-6", "time": "2:00 - 4:00", "nameEn": "Cloud Computing and Web Services", "nameAr": "الحوسبة السحابية وخدمات الويب", "type": "نظري", "instructor": "د. محمد", "room": "Hall 7" }
+        {
+          "id": "ttl-5",
+          "time": "11:00 - 2:00",
+          "nameEn": "Business Intelligence",
+          "nameAr": "ذكاء الأعمال",
+          "type": "نظري",
+          "instructor": "د. قيس النزيلي",
+          "room": "Hall 7"
+        },
+        {
+          "id": "ttl-6",
+          "time": "2:00 - 4:00",
+          "nameEn": "Cloud Computing and Web Services",
+          "nameAr": "الحوسبة السحابية وخدمات الويب",
+          "type": "نظري",
+          "instructor": "د. محمد",
+          "room": "Hall 7"
+        }
       ]
     },
     {
@@ -207,23 +276,95 @@
       "day": "الخميس",
       "dayEn": "Thursday",
       "lectures": [
-        { "id": "ttl-7", "time": "8:00 - 10:00", "nameEn": "IT Projects Management", "nameAr": "إدارة مشاريع تقنية المعلومات", "type": "نظري", "instructor": "د. حسن الجرادي", "room": "Hall 2" },
-        { "id": "ttl-8", "time": "10:00 - 12:00", "nameEn": "Cloud Computing and Web Services", "nameAr": "الحوسبة السحابية وخدمات الويب", "type": "عملي", "instructor": "أ. مريم", "room": "Lab 6 GB" },
-        { "id": "ttl-9", "time": "12:00 - 2:00", "nameEn": "IT Projects Management", "nameAr": "إدارة مشاريع تقنية المعلومات", "type": "عملي", "instructor": "أ. دلال", "room": "Lab 4 GB" },
-        { "id": "ttl-10", "time": "10:00 - 12:00", "nameEn": "IT Projects Management", "nameAr": "إدارة مشاريع تقنية المعلومات", "type": "عملي", "instructor": "أ. دلال", "room": "Lab 4 GA" },
-        { "id": "ttl-11", "time": "10:00 - 12:00", "nameEn": "Cloud Computing and Web Services", "nameAr": "الحوسبة السحابية وخدمات الويب", "type": "عملي", "instructor": "أ. مريم", "room": "Lab 6 GA" }
+        {
+          "id": "ttl-7",
+          "time": "8:00 - 10:00",
+          "nameEn": "IT Projects Management",
+          "nameAr": "إدارة مشاريع تقنية المعلومات",
+          "type": "نظري",
+          "instructor": "د. حسن الجرادي",
+          "room": "Hall 2"
+        },
+        {
+          "id": "ttl-8",
+          "time": "10:00 - 12:00",
+          "nameEn": "Cloud Computing and Web Services",
+          "nameAr": "الحوسبة السحابية وخدمات الويب",
+          "type": "عملي",
+          "instructor": "أ. مريم",
+          "room": "Lab 6 GB"
+        },
+        {
+          "id": "ttl-9",
+          "time": "12:00 - 2:00",
+          "nameEn": "IT Projects Management",
+          "nameAr": "إدارة مشاريع تقنية المعلومات",
+          "type": "عملي",
+          "instructor": "أ. دلال",
+          "room": "Lab 4 GB"
+        },
+        {
+          "id": "ttl-10",
+          "time": "10:00 - 12:00",
+          "nameEn": "IT Projects Management",
+          "nameAr": "إدارة مشاريع تقنية المعلومات",
+          "type": "عملي",
+          "instructor": "أ. دلال",
+          "room": "Lab 4 GA"
+        },
+        {
+          "id": "ttl-11",
+          "time": "10:00 - 12:00",
+          "nameEn": "Cloud Computing and Web Services",
+          "nameAr": "الحوسبة السحابية وخدمات الويب",
+          "type": "عملي",
+          "instructor": "أ. مريم",
+          "room": "Lab 6 GA"
+        }
       ]
     }
   ],
   "instructors": [
-    { "id": "ins-1", "nameAr": "د. محمد الخولاني", "degree": "دكتور" },
-    { "id": "ins-2", "nameAr": "د. حسن الجرادي", "degree": "دكتور" },
-    { "id": "ins-3", "nameAr": "د. قيس النزيلي", "degree": "دكتور" },
-    { "id": "ins-4", "nameAr": "د. محمد", "degree": "دكتور" },
-    { "id": "ins-5", "nameAr": "أ. أسماء", "degree": "أستاذ" },
-    { "id": "ins-6", "nameAr": "أ. زايد", "degree": "أستاذ" },
-    { "id": "ins-7", "nameAr": "أ. مريم", "degree": "أستاذ" },
-    { "id": "ins-8", "nameAr": "أ. دلال", "degree": "أستاذ" }
+    {
+      "id": "ins-1",
+      "nameAr": "د. محمد الخولاني",
+      "degree": "دكتور"
+    },
+    {
+      "id": "ins-2",
+      "nameAr": "د. حسن الجرادي",
+      "degree": "دكتور"
+    },
+    {
+      "id": "ins-3",
+      "nameAr": "د. قيس النزيلي",
+      "degree": "دكتور"
+    },
+    {
+      "id": "ins-4",
+      "nameAr": "د. محمد",
+      "degree": "دكتور"
+    },
+    {
+      "id": "ins-5",
+      "nameAr": "أ. أسماء",
+      "degree": "أستاذ"
+    },
+    {
+      "id": "ins-6",
+      "nameAr": "أ. زايد",
+      "degree": "أستاذ"
+    },
+    {
+      "id": "ins-7",
+      "nameAr": "أ. مريم",
+      "degree": "أستاذ"
+    },
+    {
+      "id": "ins-8",
+      "nameAr": "أ. دلال",
+      "degree": "أستاذ"
+    }
   ],
   "homeContent": {
     "heroTagline": "العام الأكاديمي ٢٠٢٦ - ٢٠٢٧م",
