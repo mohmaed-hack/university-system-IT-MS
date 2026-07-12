@@ -169,6 +169,15 @@
           "videoUrl": "https://www.dropbox.com/scl/fi/n94hrf44tk1cpmo6z6d8s/lap_1.mp4?rlkey=gj5i8oh1gj36rmgfxwwpzx0ol&st=p6lvqq1q&dl=1",
           "type": "practical",
           "id": "l-1783822744494"
+        },
+        {
+          "number": 2,
+          "title": "Lap_2",
+          "date": "2026-07-09",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/0b7sapsakt7ra1jwnsr2o/lap_2.mpp?rlkey=kcfq4hswfhvx4zci2a876x3i2&st=hb3himfv&dl=1",
+          "videoUrl": "https://www.dropbox.com/scl/fi/mun1zhpb0dozg84t5nea5/lap_2.mp4?rlkey=1m4r4l602ob6w56rqgba8y2bp&st=6aej7194&dl=1",
+          "type": "practical",
+          "id": "l-1783822778816"
         }
       ]
     },
