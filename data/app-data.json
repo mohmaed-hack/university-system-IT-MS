@@ -196,6 +196,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/f997djxrsgt3ix3xu7ayo/1-intro-BI.pdf?rlkey=n33k2v1oait79e1f4v338hh5n&st=jxkue5ya&dl=1",
           "type": "theory",
           "id": "l-1783822853255"
+        },
+        {
+          "number": 2,
+          "title": "Data Warehouse",
+          "date": "2026-06-30",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/5onu7ek4mna77ucrkylyz/2-data-warehouse.pdf?rlkey=bsdpczpj081i8hhqmf7rkfjkp&st=6ledvdnm&dl=1",
+          "type": "theory",
+          "id": "l-1783822897795"
         }
       ],
       "lecturesPractical": []
