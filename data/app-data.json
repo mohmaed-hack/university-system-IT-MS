@@ -160,7 +160,17 @@
       "semester": 1,
       "bookUrl": "https://drive.google.com/uc?export=download&id=1lm511qj_0etV2AqKlySElVQeclZ5Ps6R",
       "lecturesTheory": [],
-      "lecturesPractical": []
+      "lecturesPractical": [
+        {
+          "number": 1,
+          "title": "Lap_1",
+          "date": "2026-07-02",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/0b7sapsakt7ra1jwnsr2o/lap_2.mpp?rlkey=kcfq4hswfhvx4zci2a876x3i2&st=hb3himfv&dl=1",
+          "videoUrl": "https://www.dropbox.com/scl/fi/n94hrf44tk1cpmo6z6d8s/lap_1.mp4?rlkey=gj5i8oh1gj36rmgfxwwpzx0ol&st=p6lvqq1q&dl=1",
+          "type": "practical",
+          "id": "l-1783822744494"
+        }
+      ]
     },
     {
       "id": "sm-s1-3",
