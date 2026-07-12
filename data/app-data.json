@@ -1,0 +1,238 @@
+{
+  "semester1": [
+    {
+      "id": "s1-1",
+      "nameEn": "Software Engineering",
+      "nameAr": "هندسة البرمجيات",
+      "image": "/images/subjects/software-engineering.png",
+      "side": "نظري فقط",
+      "instructorTheory": {
+        "nameAr": "د. محمد الخولاني"
+      }
+    },
+    {
+      "id": "s1-2",
+      "nameEn": "IT Projects Management",
+      "nameAr": "إدارة مشاريع تقنية المعلومات",
+      "image": "/images/subjects/it-project-management.png",
+      "side": "نظري + عملي",
+      "instructorTheory": {
+        "nameAr": "د. حسن الجرادي"
+      },
+      "instructorPractical": {
+        "nameAr": "أ. دلال"
+      }
+    },
+    {
+      "id": "s1-3",
+      "nameEn": "Business Intelligence",
+      "nameAr": "ذكاء الأعمال",
+      "image": "/images/subjects/business-intelligence.png",
+      "side": "نظري فقط",
+      "instructorTheory": {
+        "nameAr": "د. قيس النزيلي"
+      }
+    },
+    {
+      "id": "s1-4",
+      "nameEn": "Developing Database Applications (MySQL)",
+      "nameAr": "تطوير تطبيقات قواعد البيانات",
+      "image": "/images/subjects/developing-database-applications.png",
+      "side": "نظري + عملي",
+      "instructorTheory": {
+        "nameAr": "أ. أسماء"
+      },
+      "instructorPractical": {
+        "nameAr": "أ. أسماء"
+      }
+    },
+    {
+      "id": "s1-5",
+      "nameEn": "Information Technology Management",
+      "nameAr": "إدارة تقنية المعلومات",
+      "image": "/images/subjects/it-management.png",
+      "side": "نظري فقط",
+      "instructorTheory": {
+        "nameAr": "أ. زايد"
+      }
+    },
+    {
+      "id": "s1-6",
+      "nameEn": "Cloud Computing and Web Services",
+      "nameAr": "الحوسبة السحابية وخدمات الويب",
+      "image": "/images/subjects/cloud-computing.png",
+      "side": "نظري + عملي",
+      "instructorTheory": {
+        "nameAr": "د. محمد"
+      },
+      "instructorPractical": {
+        "nameAr": "أ. مريم"
+      }
+    }
+  ],
+  "semester2": [
+    {
+      "id": "s2-1",
+      "nameEn": "Open Source Concepts & Programming",
+      "nameAr": "مفاهيم البرمجة مفتوحة المصدر",
+      "image": "/images/subjects/open-source.png",
+      "side": "نظري فقط"
+    },
+    {
+      "id": "s2-2",
+      "nameEn": "Research Methods",
+      "nameAr": "مناهج البحث العلمي",
+      "image": "/images/subjects/research-methods.png",
+      "side": "نظري فقط"
+    },
+    {
+      "id": "s2-3",
+      "nameEn": "Industrial Training",
+      "nameAr": "التدريب الميداني",
+      "image": "/images/subjects/industrial-training.png",
+      "side": "نظري فقط"
+    },
+    {
+      "id": "s2-4",
+      "nameEn": "Human Computer Interaction",
+      "nameAr": "تفاعل الإنسان والحاسب",
+      "image": "/images/subjects/human-computer-interaction.png",
+      "side": "نظري فقط"
+    },
+    {
+      "id": "s2-5",
+      "nameEn": "Enterprise Application Development",
+      "nameAr": "تطوير تطبيقات المؤسسات",
+      "image": "/images/subjects/enterprise-app-development.png",
+      "side": "نظري فقط"
+    }
+  ],
+  "schedule": [],
+  "subjectMaterials": [
+    {
+      "id": "sm-s1-1",
+      "nameEn": "Software Engineering",
+      "nameAr": "هندسة البرمجيات",
+      "image": "/images/subjects/software-engineering.png",
+      "semester": 1,
+      "bookUrl": "https://drive.google.com/uc?export=download&id=1n88RA2lhpaGQa5Qz-1V3249RLXWJRAuq",
+      "lecturesTheory": [],
+      "lecturesPractical": []
+    },
+    {
+      "id": "sm-s1-2",
+      "nameEn": "IT Projects Management",
+      "nameAr": "إدارة مشاريع تقنية المعلومات",
+      "image": "/images/subjects/it-project-management.png",
+      "semester": 1,
+      "bookUrl": "https://drive.google.com/uc?export=download&id=1lm511qj_0etV2AqKlySElVQeclZ5Ps6R",
+      "lecturesTheory": [],
+      "lecturesPractical": []
+    },
+    {
+      "id": "sm-s1-3",
+      "nameEn": "Business Intelligence",
+      "nameAr": "ذكاء الأعمال",
+      "image": "/images/subjects/business-intelligence.png",
+      "semester": 1,
+      "bookUrl": null,
+      "lecturesTheory": [],
+      "lecturesPractical": []
+    },
+    {
+      "id": "sm-s1-4",
+      "nameEn": "Developing Database Applications (MySQL)",
+      "nameAr": "تطوير تطبيقات قواعد البيانات",
+      "image": "/images/subjects/developing-database-applications.png",
+      "semester": 1,
+      "bookUrl": "https://drive.google.com/uc?export=download&id=1JMiWhTTtB5FhnVI5reIlSAakRsyPbhv8",
+      "lecturesTheory": [],
+      "lecturesPractical": []
+    },
+    {
+      "id": "sm-s1-5",
+      "nameEn": "Information Technology Management",
+      "nameAr": "إدارة تقنية المعلومات",
+      "image": "/images/subjects/it-management.png",
+      "semester": 1,
+      "bookUrl": null,
+      "lecturesTheory": [],
+      "lecturesPractical": []
+    },
+    {
+      "id": "sm-s1-6",
+      "nameEn": "Cloud Computing and Web Services",
+      "nameAr": "الحوسبة السحابية وخدمات الويب",
+      "image": "/images/subjects/cloud-computing.png",
+      "semester": 1,
+      "bookUrl": null,
+      "lecturesTheory": [],
+      "lecturesPractical": []
+    }
+  ],
+  "suggestions": [],
+  "exams": [],
+  "timetable": [
+    {
+      "id": "tt-sat",
+      "day": "السبت",
+      "dayEn": "Saturday",
+      "lectures": [
+        { "id": "ttl-1", "time": "8:00 - 11:00", "nameEn": "Software Engineering", "nameAr": "هندسة البرمجيات", "type": "نظري", "instructor": "د. محمد الخولاني", "room": "Hall 7" },
+        { "id": "ttl-2", "time": "11:00 - 2:00", "nameEn": "Information Technology Management", "nameAr": "إدارة تقنية المعلومات", "type": "نظري", "instructor": "أ. زايد", "room": "Hall 7" }
+      ]
+    },
+    { "id": "tt-sun", "day": "الأحد", "dayEn": "Sunday", "isHoliday": true, "lectures": [] },
+    { "id": "tt-mon", "day": "الاثنين", "dayEn": "Monday", "isHoliday": true, "lectures": [] },
+    {
+      "id": "tt-tue",
+      "day": "الثلاثاء",
+      "dayEn": "Tuesday",
+      "lectures": [
+        { "id": "ttl-3", "time": "8:00 - 11:00", "nameEn": "Developing Database Applications (MySQL)", "nameAr": "تطوير تطبيقات قواعد البيانات", "type": "عملي", "instructor": "أ. أسماء", "room": "Lab 3 GB" },
+        { "id": "ttl-4", "time": "11:00 - 2:00", "nameEn": "Developing Database Applications (MySQL)", "nameAr": "تطوير تطبيقات قواعد البيانات", "type": "عملي", "instructor": "أ. أسماء", "room": "Lab 3 GA" }
+      ]
+    },
+    {
+      "id": "tt-wed",
+      "day": "الأربعاء",
+      "dayEn": "Wednesday",
+      "lectures": [
+        { "id": "ttl-5", "time": "11:00 - 2:00", "nameEn": "Business Intelligence", "nameAr": "ذكاء الأعمال", "type": "نظري", "instructor": "د. قيس النزيلي", "room": "Hall 7" },
+        { "id": "ttl-6", "time": "2:00 - 4:00", "nameEn": "Cloud Computing and Web Services", "nameAr": "الحوسبة السحابية وخدمات الويب", "type": "نظري", "instructor": "د. محمد", "room": "Hall 7" }
+      ]
+    },
+    {
+      "id": "tt-thu",
+      "day": "الخميس",
+      "dayEn": "Thursday",
+      "lectures": [
+        { "id": "ttl-7", "time": "8:00 - 10:00", "nameEn": "IT Projects Management", "nameAr": "إدارة مشاريع تقنية المعلومات", "type": "نظري", "instructor": "د. حسن الجرادي", "room": "Hall 2" },
+        { "id": "ttl-8", "time": "10:00 - 12:00", "nameEn": "Cloud Computing and Web Services", "nameAr": "الحوسبة السحابية وخدمات الويب", "type": "عملي", "instructor": "أ. مريم", "room": "Lab 6 GB" },
+        { "id": "ttl-9", "time": "12:00 - 2:00", "nameEn": "IT Projects Management", "nameAr": "إدارة مشاريع تقنية المعلومات", "type": "عملي", "instructor": "أ. دلال", "room": "Lab 4 GB" },
+        { "id": "ttl-10", "time": "10:00 - 12:00", "nameEn": "IT Projects Management", "nameAr": "إدارة مشاريع تقنية المعلومات", "type": "عملي", "instructor": "أ. دلال", "room": "Lab 4 GA" },
+        { "id": "ttl-11", "time": "10:00 - 12:00", "nameEn": "Cloud Computing and Web Services", "nameAr": "الحوسبة السحابية وخدمات الويب", "type": "عملي", "instructor": "أ. مريم", "room": "Lab 6 GA" }
+      ]
+    }
+  ],
+  "instructors": [
+    { "id": "ins-1", "nameAr": "د. محمد الخولاني", "degree": "دكتور" },
+    { "id": "ins-2", "nameAr": "د. حسن الجرادي", "degree": "دكتور" },
+    { "id": "ins-3", "nameAr": "د. قيس النزيلي", "degree": "دكتور" },
+    { "id": "ins-4", "nameAr": "د. محمد", "degree": "دكتور" },
+    { "id": "ins-5", "nameAr": "أ. أسماء", "degree": "أستاذ" },
+    { "id": "ins-6", "nameAr": "أ. زايد", "degree": "أستاذ" },
+    { "id": "ins-7", "nameAr": "أ. مريم", "degree": "أستاذ" },
+    { "id": "ins-8", "nameAr": "أ. دلال", "degree": "أستاذ" }
+  ],
+  "homeContent": {
+    "heroTagline": "العام الأكاديمي ٢٠٢٦ - ٢٠٢٧م",
+    "heroTitle": "كل ما تحتاجه",
+    "heroSubtitle": "في مكان واحد",
+    "heroDescription": "استعرض الخطط الدراسية، الجداول، المواد، وشارك آراءك — كل شيء بين يديك",
+    "announcements": []
+  },
+  "settings": {
+    "timetableDownloadUrl": "https://drive.google.com/uc?export=download&id=1MENlkQ4AIT4Fh2cnducy99rP8k1ddvRG"
+  }
+}
