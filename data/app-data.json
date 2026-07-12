@@ -132,6 +132,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/74vwcpmystzbr59cd172j/Lec2-Software-Process.pdf?rlkey=otxrx2nimj71aa3mwuq6ag867&st=zcgohky6&dl=1",
           "type": "theory",
           "id": "l-1783822543279"
+        },
+        {
+          "number": 3,
+          "title": "Software Process",
+          "date": "2026-07-04",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/a3dqs2u7e9j7h9xglftvt/Lec3-Software-Process.pdf?rlkey=921xk98sdzsp6dylpgjpgacf5&st=vyec5mmu&dl=1",
+          "type": "theory",
+          "id": "l-1783822618901"
         }
       ],
       "lecturesPractical": []
