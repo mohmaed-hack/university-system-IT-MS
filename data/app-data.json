@@ -140,6 +140,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/a3dqs2u7e9j7h9xglftvt/Lec3-Software-Process.pdf?rlkey=921xk98sdzsp6dylpgjpgacf5&st=vyec5mmu&dl=1",
           "type": "theory",
           "id": "l-1783822618901"
+        },
+        {
+          "number": 4,
+          "title": "Software Project Management",
+          "date": "2026-07-11",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/nq4gizdx088kwrxhbq2d6/Lec-4-software-project-mangnement.pdf?rlkey=jog8zrxsxa5isc7jyj4mty9b4&st=nhejzszs&dl=1",
+          "type": "theory",
+          "id": "l-1783822666640"
         }
       ],
       "lecturesPractical": []
