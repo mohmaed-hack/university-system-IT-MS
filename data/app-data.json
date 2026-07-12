@@ -215,7 +215,16 @@
       "image": "/images/subjects/developing-database-applications.png",
       "semester": 1,
       "bookUrl": "https://drive.google.com/uc?export=download&id=1JMiWhTTtB5FhnVI5reIlSAakRsyPbhv8",
-      "lecturesTheory": [],
+      "lecturesTheory": [
+        {
+          "number": 1,
+          "title": "Introduction to MySql",
+          "date": "2026-06-22",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/6w5ey69ft5j8ywjonkd3i/Introduction-to-MySQL.pdf?rlkey=ddxnfxihj2wxnta8ecvq01r6z&st=7fuauqeq&dl=1",
+          "type": "theory",
+          "id": "l-1783822940260"
+        }
+      ],
       "lecturesPractical": []
     },
     {
