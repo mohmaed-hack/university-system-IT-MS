@@ -269,7 +269,16 @@
       "image": "/images/subjects/it-management.png",
       "semester": 1,
       "bookUrl": null,
-      "lecturesTheory": [],
+      "lecturesTheory": [
+        {
+          "number": 1,
+          "title": "البيانات والمعلومات",
+          "date": "2026-06-27",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/01adu833aqett8ndb5d6b/_1-.-_IT-Projects-management.pdf?rlkey=c0wslpe473y5ziwh6a3l71auz&st=0hz2zfkn&dl=1",
+          "type": "theory",
+          "id": "l-1783823198825"
+        }
+      ],
       "lecturesPractical": []
     },
     {
