@@ -250,6 +250,15 @@
           "videoUrl": "https://www.dropbox.com/scl/fi/549nqjm4nsda45ijv79lp/lap_1.mp4?rlkey=8y033qy19qaqrpn98cixh3zru&st=ma46r1dy&dl=1",
           "type": "practical",
           "id": "l-1783823094191"
+        },
+        {
+          "number": 2,
+          "title": "Lap_2",
+          "date": "2026-06-29",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/su6mq14foatorpy4s2nit/MySQL_Commands_lap_2.sql?rlkey=nrey7ow28i24ad0hs80tn63qb&st=62qg8io7&dl=0",
+          "videoUrl": "https://drive.google.com/uc?export=download&id=11vX3IxEGq6MIkGRoLS8Fo9SC-fJRkgnk",
+          "type": "practical",
+          "id": "l-1783823139255"
         }
       ]
     },
