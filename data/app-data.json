@@ -314,7 +314,16 @@
           "id": "l-1783823346097"
         }
       ],
-      "lecturesPractical": []
+      "lecturesPractical": [
+        {
+          "number": 1,
+          "title": "Lap_1",
+          "date": "2026-07-09",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/38zwu6dw5oioey3amm1kd/Cloud-Computing-Web-Services-Lecture-1.pdf?rlkey=sddsmj5kprqu0zp0vugr4sk5s&st=q0a81so8&dl=1",
+          "type": "practical",
+          "id": "l-1783823382456"
+        }
+      ]
     }
   ],
   "suggestions": [],
