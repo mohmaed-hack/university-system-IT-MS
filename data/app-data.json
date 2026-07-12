@@ -188,7 +188,16 @@
       "image": "/images/subjects/business-intelligence.png",
       "semester": 1,
       "bookUrl": null,
-      "lecturesTheory": [],
+      "lecturesTheory": [
+        {
+          "number": 1,
+          "title": "Intro to Business Intelligence",
+          "date": "2026-06-23",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/f997djxrsgt3ix3xu7ayo/1-intro-BI.pdf?rlkey=n33k2v1oait79e1f4v338hh5n&st=jxkue5ya&dl=1",
+          "type": "theory",
+          "id": "l-1783822853255"
+        }
+      ],
       "lecturesPractical": []
     },
     {
