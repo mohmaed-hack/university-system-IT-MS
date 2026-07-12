@@ -231,6 +231,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/h6rc4vi4wwzhkzgrx1952/ESSENTIALS-OF-MYSQL.pdf?rlkey=lr24zeluhp1r83ty9tzawvdg7&st=909y9otq&dl=1",
           "type": "theory",
           "id": "l-1783823002249"
+        },
+        {
+          "number": 3,
+          "title": " Working With Data In MySql",
+          "date": "2026-07-07",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/20dxcmabmxxoipbhefrgu/Working-With-Data-In-MySql.pdf?rlkey=qh4drwki4virbfpz2k0nuxbqo&st=o43z72o6&dl=1",
+          "type": "theory",
+          "id": "l-1783823052741"
         }
       ],
       "lecturesPractical": []
