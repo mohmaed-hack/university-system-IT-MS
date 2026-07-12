@@ -241,7 +241,17 @@
           "id": "l-1783823052741"
         }
       ],
-      "lecturesPractical": []
+      "lecturesPractical": [
+        {
+          "number": 1,
+          "title": "Lap_1",
+          "date": "2026-06-22",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/cv67gpwp08yl4tirg6std/1.mwb?rlkey=ztjk8pmiosx2tb6gw73ga6lli&st=o3rk7ify&dl=1",
+          "videoUrl": "https://www.dropbox.com/scl/fi/549nqjm4nsda45ijv79lp/lap_1.mp4?rlkey=8y033qy19qaqrpn98cixh3zru&st=ma46r1dy&dl=1",
+          "type": "practical",
+          "id": "l-1783823094191"
+        }
+      ]
     },
     {
       "id": "sm-s1-5",
