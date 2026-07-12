@@ -288,7 +288,16 @@
       "image": "/images/subjects/cloud-computing.png",
       "semester": 1,
       "bookUrl": null,
-      "lecturesTheory": [],
+      "lecturesTheory": [
+        {
+          "number": 1,
+          "title": "المحاضرة الأولى   ",
+          "date": "2026-06-23",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/uxeckmq56eosvow6ot0rq/.pdf?rlkey=hiyjwt3onjel6s2dy9gz8gkn7&st=o4bm2hp3&dl=1",
+          "type": "theory",
+          "id": "l-1783823255913"
+        }
+      ],
       "lecturesPractical": []
     }
   ],
