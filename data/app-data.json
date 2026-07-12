@@ -124,6 +124,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/7bzy3uevp858nbde3txkv/Lec1-ntroduction-to-software-engneering-emirates11.pdf?rlkey=wcex0rxp9y6f3tz3h4u7wb4gd&st=phbqdv09&dl=1",
           "type": "theory",
           "id": "l-1783821817935"
+        },
+        {
+          "number": 2,
+          "title": "Software Process",
+          "date": "2026-06-27",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/74vwcpmystzbr59cd172j/Lec2-Software-Process.pdf?rlkey=otxrx2nimj71aa3mwuq6ag867&st=zcgohky6&dl=1",
+          "type": "theory",
+          "id": "l-1783822543279"
         }
       ],
       "lecturesPractical": []
