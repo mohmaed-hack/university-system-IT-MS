@@ -239,6 +239,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/20dxcmabmxxoipbhefrgu/Working-With-Data-In-MySql.pdf?rlkey=qh4drwki4virbfpz2k0nuxbqo&st=o43z72o6&dl=1",
           "type": "theory",
           "id": "l-1783823052741"
+        },
+        {
+          "number": 4,
+          "title": "JOINS",
+          "date": "2026-07-14",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/8wy7bhvzj3m1ibv1b9a4s/Join.pdf?rlkey=dikge12lybw1ic0aiswkvv5ju&st=diwyuat9&dl=1",
+          "type": "theory",
+          "id": "l-1784570401355"
         }
       ],
       "lecturesPractical": [
