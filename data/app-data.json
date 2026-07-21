@@ -148,6 +148,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/nq4gizdx088kwrxhbq2d6/Lec-4-software-project-mangnement.pdf?rlkey=jog8zrxsxa5isc7jyj4mty9b4&st=nhejzszs&dl=1",
           "type": "theory",
           "id": "l-1783822666640"
+        },
+        {
+          "number": 5,
+          "title": "Requirements Engineering",
+          "date": "2026-07-18",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/qru9jzbm143qw5k3pkys4/lectures-5-6-Requirements-Engneering.pptx?rlkey=gdltejks9p2mf3pxh80j30d5p&st=wjtikb8r&dl=1",
+          "type": "theory",
+          "id": "l-1784666226743"
         }
       ],
       "lecturesPractical": []
