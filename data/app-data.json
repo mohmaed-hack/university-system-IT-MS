@@ -186,6 +186,14 @@
           "videoUrl": "https://www.dropbox.com/scl/fi/mun1zhpb0dozg84t5nea5/lap_2.mp4?rlkey=1m4r4l602ob6w56rqgba8y2bp&st=6aej7194&dl=1",
           "type": "practical",
           "id": "l-1783822778816"
+        },
+        {
+          "number": 3,
+          "title": "Lap_3",
+          "date": "2026-07-16",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/kf8d0b9r0ygsy8izywbgm/lap_3.mpp?rlkey=uxuvg6a8ovqyaabudq2lqzq4z&st=85xs23hx&dl=1",
+          "type": "practical",
+          "id": "l-1785113998361"
         }
       ]
     },
