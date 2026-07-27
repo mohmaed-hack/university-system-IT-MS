@@ -354,6 +354,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/38zwu6dw5oioey3amm1kd/Cloud-Computing-Web-Services-Lecture-1.pdf?rlkey=sddsmj5kprqu0zp0vugr4sk5s&st=q0a81so8&dl=1",
           "type": "practical",
           "id": "l-1783823382456"
+        },
+        {
+          "number": 2,
+          "title": "Lap_2",
+          "date": "2026-07-16",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/cn5h9s6s27t4j1ms9fa5l/Cloud-Computing-Web-Services-Lecture-2.pdf?rlkey=t9qa6p1kwl9uvop0izxlx4vhy&st=zun9mhnq&dl=1",
+          "type": "practical",
+          "id": "l-1785113123711"
         }
       ]
     }
