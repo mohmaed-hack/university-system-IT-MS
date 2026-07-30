@@ -407,7 +407,22 @@
     }
   ],
   "suggestions": [],
-  "exams": [],
+  "exams": [
+    {
+      "id": "exam-1785429283065",
+      "subjectAr": "هندسة البرمجيات ",
+      "subjectEn": "Software Engineering",
+      "date": "2026-08-01",
+      "time": "08:00",
+      "type": "نصفي",
+      "room": "7 Hall ",
+      "instructor": "محمد الخولاني",
+      "syllabus": "Chapter 1-6",
+      "syllabusUrl": "https://www.dropbox.com/scl/fi/qx7ojkvpx2zvfu4w91b5c/_-_.zip?rlkey=q8xap06ixfue0eqjrvdf7d35s&st=go7c09ae&dl=1",
+      "notes": "\nفي غلط في  ملزمه الدكتور محمد الخولاني عامل من امثله \n\nGeneric product \nERP \n\nوالصح ان ال ERP من امثله ال Customized product\n\nمهم : \nويبلغكم الدكتور محمد انوا لاتعتمدوا على الاسئله الأسبوعية\nيعني اعتمدوا على الكتاب",
+      "semester": 1
+    }
+  ],
   "timetable": [
     {
       "id": "tt-sat",
