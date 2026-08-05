@@ -507,7 +507,7 @@
           "nameAr": "تطوير تطبيقات قواعد البيانات",
           "type": "عملي",
           "instructor": "أ. أسماء",
-          "room": "Lab 3 GB"
+          "room": "Lab 3 GA"
         },
         {
           "id": "ttl-4",
@@ -516,7 +516,7 @@
           "nameAr": "تطوير تطبيقات قواعد البيانات",
           "type": "عملي",
           "instructor": "أ. أسماء",
-          "room": "Lab 3 GA"
+          "room": "Lab 3 GB"
         }
       ]
     },
@@ -566,7 +566,7 @@
           "nameAr": "الحوسبة السحابية وخدمات الويب",
           "type": "عملي",
           "instructor": "أ. مريم",
-          "room": "Lab 6 GB"
+          "room": "Lab 6 GA"
         },
         {
           "id": "ttl-9",
@@ -575,7 +575,7 @@
           "nameAr": "إدارة مشاريع تقنية المعلومات",
           "type": "عملي",
           "instructor": "أ. دلال",
-          "room": "Lab 4 GB"
+          "room": "Lab 4 GA"
         },
         {
           "id": "ttl-10",
@@ -584,7 +584,7 @@
           "nameAr": "إدارة مشاريع تقنية المعلومات",
           "type": "عملي",
           "instructor": "أ. دلال",
-          "room": "Lab 4 GA"
+          "room": "Lab 4 GB"
         },
         {
           "id": "ttl-11",
@@ -593,7 +593,7 @@
           "nameAr": "الحوسبة السحابية وخدمات الويب",
           "type": "عملي",
           "instructor": "أ. مريم",
-          "room": "Lab 6 GA"
+          "room": "Lab 6 GB"
         }
       ]
     }
