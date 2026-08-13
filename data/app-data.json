@@ -311,6 +311,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/r0czavjn8kc7b0cj85i8f/MYSQL-CLAUSES-AND-INDEXES.pdf?rlkey=lozl91f4ouh8yeoxz270r7e5z&st=y4cut0vi&dl=1",
           "type": "theory",
           "id": "l-1786663713592"
+        },
+        {
+          "number": 9,
+          "title": "Transection, Performance management and backup",
+          "date": "2026-08-10",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/vnk7gpqi97w3asche7kyi/Transection-Performance-management-and-backup.pdf?rlkey=2cwj2uqeskkll588yu5u9r5v6&st=r807o8kj&dl=1",
+          "type": "theory",
+          "id": "l-1786663751980"
         }
       ],
       "lecturesPractical": [
