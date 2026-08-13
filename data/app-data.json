@@ -303,6 +303,14 @@
           "downloadUrl": "https://www.dropbox.com/scl/fi/1us71987c3xqcf3ilzta1/Functios-And-Stored-Procedures.pdf?rlkey=ocep9e5gfeky60gphk3za9zzn&st=gqb7bd4u&dl=1",
           "type": "theory",
           "id": "l-1786663646252"
+        },
+        {
+          "number": 7,
+          "title": "MYSQL CLAUSES AND INDEXES",
+          "date": "2026-08-10",
+          "downloadUrl": "https://www.dropbox.com/scl/fi/r0czavjn8kc7b0cj85i8f/MYSQL-CLAUSES-AND-INDEXES.pdf?rlkey=lozl91f4ouh8yeoxz270r7e5z&st=y4cut0vi&dl=1",
+          "type": "theory",
+          "id": "l-1786663713592"
         }
       ],
       "lecturesPractical": [
