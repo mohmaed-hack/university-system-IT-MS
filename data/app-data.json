@@ -518,6 +518,19 @@
       "syllabusUrl": "https://www.dropbox.com/scl/fi/ijfoyv7hj13v62x6pe8e5/.zip?rlkey=m2k68l5qp8x42v48qu558islr&st=6gw2y6qe&dl=1",
       "notes": "ملاحظات : \nبخصوص الامتحان النصفي\nبيكون متنوع\nفيه\nصح وخطا\nاسئلة مباشرة\nواختيار من متعدد \nاكمل الفراغات. \n\n(المادة كبير وكلها دش يعني  شد حالك ي صديقي )",
       "semester": 1
+    },
+    {
+      "id": "exam-1786934771047",
+      "subjectAr": "Databases Applications MySql ",
+      "date": "2026-08-18",
+      "time": "08:00",
+      "type": "نصفي",
+      "room": "Hall 7",
+      "instructor": "أسماء ",
+      "syllabus": "Chapters 1-5",
+      "syllabusUrl": "https://www.dropbox.com/scl/fi/gi2lek2y254o7p46449r5/.zip?rlkey=kitlakrx93k8hbbawg5m028xw&st=7cv9kysa&dl=1",
+      "notes": "ملاحظات : صيغة الاختبار نفس كل سنة .",
+      "semester": 1
     }
   ],
   "timetable": [
