@@ -531,6 +531,19 @@
       "syllabusUrl": "https://www.dropbox.com/scl/fi/gi2lek2y254o7p46449r5/.zip?rlkey=kitlakrx93k8hbbawg5m028xw&st=7cv9kysa&dl=1",
       "notes": "ملاحظات : صيغة الاختبار نفس كل سنة .",
       "semester": 1
+    },
+    {
+      "id": "exam-1787067803409",
+      "subjectAr": "IT Projects Management ",
+      "date": "2026-08-20",
+      "time": "08:00",
+      "type": "نصفي",
+      "room": "Hall 2",
+      "instructor": "حسن الجرادي ",
+      "syllabus": "Chapters 1-5",
+      "syllabusUrl": "https://www.dropbox.com/scl/fi/rc0hxd2wtqajdo8iqco09/.pdf?rlkey=hea1pjieqdabqev7wma664j84&st=8unv1jn1&dl=1",
+      "notes": "ملاحظات هامة : \nمقرر الاختبار هو 5 شباتر او فصول .\nصيغة الاختبار 3 اسئلة : \nالاول ضع علامة صح او خطاء امام الاجابة دون تصحيح العبارة.\nالثاني ضلل الاجابة الصحيحة من ضمن 3 خيارات.\nالثالث اذكر خصائص او مميزات او اهداف اوخطوات أوعدد عناصر...... دون شرح .\n",
+      "semester": 1
     }
   ],
   "timetable": [
